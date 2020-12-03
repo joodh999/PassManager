@@ -1,0 +1,6 @@
+args==0.1.0
+click==7.1.2
+clint==0.5.1
+pyperclip==1.8.1
+pysqlcipher3==1.0.3
+
