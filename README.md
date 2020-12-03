@@ -1,5 +1,5 @@
 # PassManager
-	A Desktop-Based Password Manager
+A Desktop-Based Password Manager
 	
 
 	
